@@ -1,12 +1,4 @@
-#cmake_minimum_required(VERSION 3.22)
-#project(C__11Pro)
-#
-#set(CMAKE_CXX_STANDARD 11)
-#
-#add_executable(C__11Pro src/main.cpp)
-
-
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.22)
 project(MyHomework)
 
 set(CMAKE_CXX_STANDARD 11)
